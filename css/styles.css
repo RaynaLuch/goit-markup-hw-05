@@ -648,7 +648,7 @@ img {
 .modal-form-set {
   margin-bottom: 8px;
 }
-.modal-form-set {
+.modal-area-set {
   margin-bottom: 16px;
 }
 .modal-checkbox-set {
@@ -744,4 +744,7 @@ img {
   align-items: center;
   justify-content: center;
   fill: transparent;
+}
+.modal-link {
+  color: var(--color-primary-brand);
 }
