@@ -749,7 +749,7 @@ img {
 .modal-link {
   color: var(--color-primary-brand);
 }
-.modal-checkbox:checked {
+.modal-checkbox:checked + .modal-checkbox-text > .modal-chekbox-pic {
   background-color: var(--color-pressed-state);
   border: none;
   fill: var(--color-light);
